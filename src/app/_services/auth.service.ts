@@ -11,7 +11,8 @@ const httpOptions = {
     'Access-Control-Allow-Headers': 'Origin,Content-Type,Accept,Authorization,ApiKey',
     'Access-Control-Allow-Methods': 'POST,GET,OPTIONS,PUT,DELETE',
     'max_execution_time': -1,
-    'accept': 'application/json'
+    'accept': 'application/json',
+    'Authorization':'Bearer a8446d81-3fae-470c-ac9a-bac11bc66d08'
   })
 };
 
